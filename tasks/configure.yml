@@ -7,3 +7,4 @@
     dest: /etc/kibana/kibana.yml
   notify: restart Kibana
   tags: kibana
+
