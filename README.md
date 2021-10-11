@@ -1,8 +1,7 @@
-Role Name
+Kibana-role
 =========
 
-A brief description of the role goes here.
-
+Install and test kibana
 Requirements
 ------------
 
